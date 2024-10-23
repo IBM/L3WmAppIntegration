@@ -1,2 +1,2 @@
-# L3WmAppIntegration
-this is for fun, ain't it grand!
+# Package Name : L3WmAppIntegration
+This is a webMethods package and requires a webMethods Integration Server to host it. Package versioning and configuration can be found in the package [manifest](./L3WmAppIntegration/manifest.v3) file. Service and API documentation is available on the package's home page http://&lt;server&gt;:&lt;port&gt;/&lt;packagename>.
